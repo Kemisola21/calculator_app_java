@@ -16,7 +16,7 @@ public class Calculator implements ActionListener { // Main class implementing A
 
     JPanel panel; // Panel to hold the number buttons
 
-    Font myFont = new Font("Ink Free", Font.BOLD, 30); // Font style for buttons and textfield
+    Font myFont = new Font("Ink Free", Font.BOLD, 30); // Font style for buttons and textfields
 
     // Variables for storing the two numbers, result, and operator
     double num1 = 0, num2 = 0, result = 0;
